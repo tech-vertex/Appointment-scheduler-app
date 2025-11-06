@@ -1,4 +1,4 @@
-// FilterOptions.js
+// FilterOptions
 import React from 'react';
 
 const FilterOptions = ({ handleFilterChange }) => {
